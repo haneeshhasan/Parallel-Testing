@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-08T15:58:08 IST" name="Suite" finished-at="2025-07-08T15:58:15 IST" duration-ms="6626">
+    <groups>
+    </groups>
+    <test started-at="2025-07-08T15:58:08 IST" name="ChromeTest" finished-at="2025-07-08T15:58:11 IST" duration-ms="3038">
+      <class name="Session45.ParamTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:Session45.ParamTest@5d0bf09b]" started-at="2025-07-08T15:58:08 IST" name="setup" finished-at="2025-07-08T15:58:11 IST" duration-ms="2606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogo()[pri:1, instance:Session45.ParamTest@5d0bf09b]" started-at="2025-07-08T15:58:11 IST" name="testLogo" finished-at="2025-07-08T15:58:11 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method signature="testTitle()[pri:2, instance:Session45.ParamTest@5d0bf09b]" started-at="2025-07-08T15:58:11 IST" name="testTitle" finished-at="2025-07-08T15:58:11 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method signature="testURL()[pri:3, instance:Session45.ParamTest@5d0bf09b]" started-at="2025-07-08T15:58:11 IST" name="testURL" finished-at="2025-07-08T15:58:11 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testURL -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Session45.ParamTest@5d0bf09b]" started-at="2025-07-08T15:58:11 IST" name="teardown" finished-at="2025-07-08T15:58:11 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Session45.ParamTest -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2025-07-08T15:58:08 IST" name="Edgetest" finished-at="2025-07-08T15:58:11 IST" duration-ms="3176">
+      <class name="Session45.ParamTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:Session45.ParamTest@6e9a5ed8]" started-at="2025-07-08T15:58:08 IST" name="setup" finished-at="2025-07-08T15:58:11 IST" duration-ms="2362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogo()[pri:1, instance:Session45.ParamTest@6e9a5ed8]" started-at="2025-07-08T15:58:11 IST" name="testLogo" finished-at="2025-07-08T15:58:11 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method signature="testTitle()[pri:2, instance:Session45.ParamTest@6e9a5ed8]" started-at="2025-07-08T15:58:11 IST" name="testTitle" finished-at="2025-07-08T15:58:11 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method signature="testURL()[pri:3, instance:Session45.ParamTest@6e9a5ed8]" started-at="2025-07-08T15:58:11 IST" name="testURL" finished-at="2025-07-08T15:58:11 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testURL -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Session45.ParamTest@6e9a5ed8]" started-at="2025-07-08T15:58:11 IST" name="teardown" finished-at="2025-07-08T15:58:11 IST" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Session45.ParamTest -->
+    </test> <!-- Edgetest -->
+    <test started-at="2025-07-08T15:58:08 IST" name="FirefoxTest" finished-at="2025-07-08T15:58:15 IST" duration-ms="6626">
+      <class name="Session45.ParamTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:Session45.ParamTest@6c284af]" started-at="2025-07-08T15:58:08 IST" name="setup" finished-at="2025-07-08T15:58:14 IST" duration-ms="5513" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogo()[pri:1, instance:Session45.ParamTest@6c284af]" started-at="2025-07-08T15:58:14 IST" name="testLogo" finished-at="2025-07-08T15:58:14 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method signature="testTitle()[pri:2, instance:Session45.ParamTest@6c284af]" started-at="2025-07-08T15:58:14 IST" name="testTitle" finished-at="2025-07-08T15:58:14 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method signature="testURL()[pri:3, instance:Session45.ParamTest@6c284af]" started-at="2025-07-08T15:58:14 IST" name="testURL" finished-at="2025-07-08T15:58:14 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testURL -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Session45.ParamTest@6c284af]" started-at="2025-07-08T15:58:14 IST" name="teardown" finished-at="2025-07-08T15:58:15 IST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Session45.ParamTest -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
